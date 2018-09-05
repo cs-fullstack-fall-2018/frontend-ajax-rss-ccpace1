@@ -1,0 +1,905 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2018  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 05 Sep 2018 19:55:35 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>The Kremlin Wants Information. To Get It, Agents Show Up With Flowers.</title>
+      <link>https://www.nytimes.com/2018/09/04/world/europe/russian-agents-kremlin-spies.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/europe/russian-agents-kremlin-spies.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/europe/russian-agents-kremlin-spies.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/08/31/world/xxinformers1/xxinformers1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nataliya Gryaznevich, an employee of a pro-democracy group, said the man who approached at her apartment in Moscow &#x201C;acted like an old friend I didn&#x2019;t recognize.&#x201D;</media:description>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <description>It took a while for a young woman to figure out that the smiling man who asked her for coffee was trying to recruit her as an informer.</description>
+      <dc:creator>ANDREW HIGGINS</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 22:27:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Informers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Security Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khodorkovsky, Mikhail B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Open Russia</category>
+    </item>
+    <item>
+      <title>U.K. Charges 2 Men in Novichok Poisoning, Saying They&#x2019;re Russian Agents</title>
+      <link>https://www.nytimes.com/2018/09/05/world/europe/russia-uk-novichok-skripal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/europe/russia-uk-novichok-skripal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/05/world/europe/russia-uk-novichok-skripal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/europe/06Novichok5/06Novichok5-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The suspects were identified as Alexander Petrov, left, and Ruslan Boshirov.</media:description>
+      <media:credit>British Metropolitan Police</media:credit>
+      <description>The police said they had tracked in detail the movement of the suspects, who have been charged in the poisoning of a former spy.</description>
+      <dc:creator>RICHARD P&#xC9;REZ-PE&#xD1;A and ELLEN BARRY</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 15:24:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rowley, Charlie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Skripal, Sergei V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sturgess, Dawn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>Marseilles Dispatch: Yes, There Is a French McDonald&#x2019;s That Is Beloved (by Its Staff)</title>
+      <link>https://www.nytimes.com/2018/09/05/world/europe/france-marseille-mcdonalds.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/europe/france-marseille-mcdonalds.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/05/world/europe/france-marseille-mcdonalds.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05Marseille1/05Marseille1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Workers at a McDonald&#x2019;s in Marseille, France, are fighting to save the fast-food outlet from closing.</media:description>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <description>The owner of a McDonald&#x2019;s in Marseille wants to sell it to a halal food operator. The employees &#x2014; many of whom are Muslim and North African &#x2014; are outraged.</description>
+      <dc:creator>ADAM NOSSITER</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 09:00:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">McDonald's Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
+    </item>
+    <item>
+      <title>Bombings Target Afghan Wrestling Match and Those Who Rushed to the Scene</title>
+      <link>https://www.nytimes.com/2018/09/05/world/asia/afghanistan-bombings-kabul-terrorism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/asia/afghanistan-bombings-kabul-terrorism.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/05/world/asia/afghanistan-bombings-kabul-terrorism.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06afghanistan/06afghanistan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An injured boy receiving help outside a hospital in Kabul, Afghanistan, after two bombings at a wrestling training center. The second blast was far larger, and timed to kill emergency workers and journalists.</media:description>
+      <media:credit>Rahmat Gul/Associated Press</media:credit>
+      <description>At least 20 people were killed and 70 wounded in the blasts in Kabul, including emergency workers and journalists who were reporting live on Afghan television.</description>
+      <dc:creator>FAHIM ABED and FATIMA FAIZI</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 18:15:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+    </item>
+    <item>
+      <title>Museum Fire in Brazil Was &#x2018;Bound to Happen&#x2019;</title>
+      <link>https://www.nytimes.com/2018/09/04/world/americas/brazil-museum-fire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/americas/brazil-museum-fire.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/americas/brazil-museum-fire.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04brazilmuseum/04brazilmuseum-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Employees of the National Museum in Rio de Janeiro on Monday. There had been warnings for years that the building was vulnerable to fire.</media:description>
+      <media:credit>Antonio Lacerda/EPA, via Shutterstock</media:credit>
+      <description>Warnings, including a citizen complaint to the federal prosecutor, that neglect had turned the National Museum into a tinderbox piled up for years.</description>
+      <dc:creator>MANUELA ANDREONI</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 02:38:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kellner, Alexander W A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio de Janeiro (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+    </item>
+    <item>
+      <title>Airport Security Trays Carry More Cold Germs Than Toilets, Study Finds</title>
+      <link>https://www.nytimes.com/2018/09/05/world/europe/airport-security-trays-virus.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/europe/airport-security-trays-virus.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/05/world/europe/airport-security-trays-virus.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06Airport-security/06Airport-security-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Scientists working to prevent the spread of diseases through public transportation tested surfaces at Helsinki Airport, and found viral traces on half the security trays they looked at.</media:description>
+      <media:credit>Wilfredo Lee/Associated Press</media:credit>
+      <description>Scientists who tested surfaces at Helsinki Airport found the viruses responsible for colds and influenza on the trays used at security checkpoints.</description>
+      <dc:creator>PALKO KARASZ</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 13:09:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Helsinki (Finland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Microbiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Nottingham</category>
+    </item>
+    <item>
+      <title>Rx for British Doctors: Use Plain English Instead of Latin</title>
+      <link>https://www.nytimes.com/2018/09/05/world/europe/doctors-plain-english.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/europe/doctors-plain-english.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/05/world/europe/doctors-plain-english.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06Doctors-ENglish/06Doctors-ENglish-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Specialist doctors in England currently write explanatory letters to their patients&#x2019; general practitioners, rather than to the patients themselves, often employing medical jargon.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>In an effort to improve written communication with patients, an initiative by the Academy of Medical Royal Colleges is encouraging doctors to ditch medical jargon.</description>
+      <dc:creator>CEYLAN YEGINSU</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 16:19:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Letters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Academy of Medical Royal Colleges</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hugh Rayner</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>As a Major Storm Tapers in Japan, Fears Grow of Economic Losses</title>
+      <link>https://www.nytimes.com/2018/09/05/world/asia/typhoon-japan-kansai-airport.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/asia/typhoon-japan-kansai-airport.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/05/world/asia/typhoon-japan-kansai-airport.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06JAPAN1/06JAPAN1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Flooding at Kansai International Airport on Tuesday after Typhoon Jebi hit western Japan. The airport is built on an artificial island.</media:description>
+      <media:credit>Kentaro Ikushima/Mainichi Newspaper, via Associated Press</media:credit>
+      <description>The strongest typhoon to hit the country in 25 years could force the shutdown of the country&#x2019;s third-largest airport for a week, crimping tourism and trade.</description>
+      <dc:creator>MIKE IVES</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 13:01:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cathay Pacific Airways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Universal Studios Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Osaka (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyoto (Japan)</category>
+    </item>
+    <item>
+      <title>Pompeo Offers Pakistan a Reset, but Skepticism Is Rife</title>
+      <link>https://www.nytimes.com/2018/09/05/world/asia/mike-pompeo-pakistan-imran-khan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/asia/mike-pompeo-pakistan-imran-khan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/05/world/asia/mike-pompeo-pakistan-imran-khan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06pakistan-1/06pakistan-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Secretary of State Mike Pompeo in Washington last month. His brief stop in Pakistan will be followed by a visit to India.</media:description>
+      <media:credit>Erin Schaff for The New York Times</media:credit>
+      <description>The cancellation of $300 million in aid to Pakistan looms over a meeting between the secretary of state with the new Pakistani prime minister, Imran Khan.</description>
+      <dc:creator>MARIA ABI-HABIB and SALMAN MASOOD</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 09:38:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bajwa, Qamar Javed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Some Say the Press Is the Enemy. We Beg to Differ.</title>
+      <link>https://www.nytimes.com/2018/09/05/insider/isis-thailand-south-africa-reforms.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/insider/isis-thailand-south-africa-reforms.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/05/insider/isis-thailand-south-africa-reforms.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/08/23/world/23impact/23impact-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Capt. Harith al-Sudani&#x2019;s wife, Raghad Hasan Chaloob, and their three children, Riyam, Rawan and Muamal.</media:description>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <description>Over the course of one month, three separate stories from our International desk &#x2014; reported on the ground in Iraq, Thailand and South Africa &#x2014; helped lead to immediate reforms.</description>
+      <dc:creator>MARIE TAE McDERMOTT</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 19:16:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Pit Toilet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ayu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sudani, Harith al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Marriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+    </item>
+    <item>
+      <title>Pence Expresses Support for Jailed Reuters Reporters</title>
+      <link>https://www.nytimes.com/2018/09/05/world/asia/pence-myanmar-reuters-reporters.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/asia/pence-myanmar-reuters-reporters.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/05/world/asia/pence-myanmar-reuters-reporters.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06myanmar-1/06myanmar-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The detained Reuters journalists Wa Lone, left, and Kyaw Soe Oo after being sentenced Monday in Yangon, Myanmar.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>The journalists were sentenced to seven years in prison on Monday in what was widely seen worldwide as an unjust case.</description>
+      <dc:creator>MIKE IVES</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 11:37:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pence, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wa Lone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kyaw Soe Oo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+    </item>
+    <item>
+      <title>South Korean Envoy Visits North Korea to Help Revive Nuclear Talks</title>
+      <link>https://www.nytimes.com/2018/09/05/world/asia/south-korea-north.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/05/world/asia/south-korea-north.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/05/world/asia/south-korea-north.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06korea-envoy-span/06korea-envoy-span-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chung Eui-yong, third from right, and other members of South Korea&#x2019;s delegation, just before leaving for North Korea on Wednesday.</media:description>
+      <media:credit>Pool photo by Jung Yeon-Je</media:credit>
+      <description>An adviser to President Moon Jae-in met with Kim Jong-un, the North&#x2019;s leader, hoping to jump-start the stalled diplomacy over nuclear disarmament.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 09:50:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moon Jae-in</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+    </item>
+    <item>
+      <title>Trump Plans to Take Aim at Iran in U.N. Session</title>
+      <link>https://www.nytimes.com/2018/09/04/world/middleeast/trump-un-security-council-iran.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/middleeast/trump-un-security-council-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/middleeast/trump-un-security-council-iran.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05TRUMP-IRAN/05TRUMP-IRAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump will press the United Nations Security Council to be more assertive toward Iran at a session this month, raising the possibility of a face-to-face confrontation with Iranian officials.</media:description>
+      <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+      <description>President Trump will press the Security Council to be more assertive, raising the possibility of a face-to-face confrontation with Iranian officials.</description>
+      <dc:creator>MICHAEL SCHWIRTZ</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 00:55:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>Guatemalan Leader Bars Re-entry of Corruption Prosecutor</title>
+      <link>https://www.nytimes.com/2018/09/04/world/americas/guatemala-ivan-velasquez-corruption.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/americas/guatemala-ivan-velasquez-corruption.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/americas/guatemala-ivan-velasquez-corruption.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05guatemala/05guatemala-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Iv&#xE1;n Vel&#xE1;squez, above, the head of a United Nations-backed anticorruption commission, was barred from re-entering Guatemala by President Jimmy Morales.</media:description>
+      <media:credit>Moises Castillo/Associated Press</media:credit>
+      <description>The move by President Jimmy Morales puts him in direct conflict with Guatemala&#x2019;s highest court and pushes the country toward a constitutional crisis.</description>
+      <dc:creator>ELISABETH MALKIN</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 00:27:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morales, Jimmy (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Velasquez Gomez, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+    </item>
+    <item>
+      <title>Saudi Arabia Seeks Death Penalty in Trial of Outspoken Cleric</title>
+      <link>https://www.nytimes.com/2018/09/04/world/middleeast/saudi-arabia-salman-al-awda.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/middleeast/saudi-arabia-salman-al-awda.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/middleeast/saudi-arabia-salman-al-awda.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05saudi-print/05saudi-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Salman al-Awda, a prominent Muslim cleric, has been critical of the Saudi government.</media:description>
+      <media:credit/>
+      <description>Salman al-Awda is being tried on 37 charges, including provoking public discord and disobeying the ruler.</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 23:37:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Awda, Salman al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clergy</category>
+    </item>
+    <item>
+      <title>U.K. Economy Needs Stronger Unions and Higher Taxes on Rich, Report Says</title>
+      <link>https://www.nytimes.com/2018/09/04/world/europe/uk-economy-prosperity-justice-inequality-fairness-welby.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/europe/uk-economy-prosperity-justice-inequality-fairness-welby.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/europe/uk-economy-prosperity-justice-inequality-fairness-welby.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05ukbishop/05ukbishop-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Justin Welby, the archbishop of Canterbury, at Westminster Abbey earlier this year. &#x201C;For decades the U.K. economy has not worked as it should,&#x201D; he said recently.</media:description>
+      <media:credit>Simon Dawson/Reuters</media:credit>
+      <description>A report by the archbishop of Canterbury and others calls for transformational changes to redress the feelings of inequality and injustice that led to Brexit.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 23:25:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Inheritance and Estate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Welby, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Brett Kavanaugh, Colin Kaepernick, Amazon: Your Tuesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2018/09/04/briefing/brett-kavanaugh-colin-kaepernick-amazon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/briefing/brett-kavanaugh-colin-kaepernick-amazon.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/briefing/brett-kavanaugh-colin-kaepernick-amazon.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/briefing/20180904SS-slide-OWIM/20180904SS-slide-OWIM-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>JOUMANA KHATIB, STEPHEN REISS and SANDRA STEVENSON</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 02:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Greek Court Rules for Russia in Fight Over Cybercrime Suspect</title>
+      <link>https://www.nytimes.com/2018/09/04/world/europe/vinnik-greece-russia-extradition.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/europe/vinnik-greece-russia-extradition.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/europe/vinnik-greece-russia-extradition.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05RussiaHack-print/05RussiaHack-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Greek police detained Aleksandr V. Vinnik last year on an American warrant that accuses him of running a Moscow-based Bitcoin exchange that laundered money.</media:description>
+      <media:credit>Giannis Papanikos/Associated Press</media:credit>
+      <description>The court ordered the man to be sent back home, not to the United States, though his background in cryptocurrency coincides with an area of interest to the special counsel.</description>
+      <dc:creator>ANDREW E. KRAMER and LIZ ALDERMAN</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 04:05:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vinnik, Aleksandr V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberwarfare and Defense</category>
+    </item>
+    <item>
+      <title>Deadly Airstrikes in Syria Raise Fears of New Offensive</title>
+      <link>https://www.nytimes.com/2018/09/04/world/middleeast/syria-idlib-airstrikes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/middleeast/syria-idlib-airstrikes.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/middleeast/syria-idlib-airstrikes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/06/world/06syria1/06syria1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Russian airstrikes hit the rebel-hold town of Muhambal in Idlib Province on Tuesday.</media:description>
+      <media:credit>Omar Haj Kadour/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Dozens of airstrikes hit Idlib Province, Syria&#x2019;s last rebel-held enclave, as diplomats scrambled to avert a blood bath.</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 22:46:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Observatory for Human Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Mistura, Staffan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idlib (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>U.S. Embassy Bombing Attempt in Cairo Misfires</title>
+      <link>https://www.nytimes.com/2018/09/04/world/middleeast/us-embassy-cairo-bombing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/middleeast/us-embassy-cairo-bombing.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/middleeast/us-embassy-cairo-bombing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05egypt/05egypt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The United States Embassy in Cairo on Tuesday after a crude explosive device went off outside its gates.</media:description>
+      <media:credit>EPA, via Shutterstock</media:credit>
+      <description>The bomb, carried in a backpack, exploded prematurely, foiling the attacker&#x2019;s plot, Egyptian officials said.</description>
+      <dc:creator>DAVID D. KIRKPATRICK and MOHAMED EZZ</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 19:07:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Kolkata Bridge Collapse Leaves at Least One Dead and Several Trapped</title>
+      <link>https://www.nytimes.com/2018/09/04/world/asia/india-kolkata-bridge-collapse.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/asia/india-kolkata-bridge-collapse.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/asia/india-kolkata-bridge-collapse.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05india-bridge1/05india-bridge1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A crowd looked on as Indian Army and rescue personnel worked at the site of a collapsed bridge in Kolkata on Tuesday.</media:description>
+      <media:credit>Piyal Adhikary/EPA, via Shutterstock</media:credit>
+      <description>The state&#x2019;s governor told reporters that &#x201C;the bridge deserved better maintenance&#x201D; and that there had been previous complaints about the soundness of the structure.</description>
+      <dc:creator>KAI SCHULTZ</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 18:21:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kolkata (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>Brexit Gave Labour Party an Opening. Instead, It Has an Anti-Semitism Crisis.</title>
+      <link>https://www.nytimes.com/2018/09/04/world/europe/uk-labour-anti-semitism-corbyn.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/europe/uk-labour-anti-semitism-corbyn.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/europe/uk-labour-anti-semitism-corbyn.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05Labour1/05Labour1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jeremy Corbyn, the leader of Britain&#x2019;s opposition Labour Party, ahead of a meeting of the party&#x2019;s National Executive Committee in London on Tuesday.</media:description>
+      <media:credit>Nick Ansell/Press Association, via Associated Press</media:credit>
+      <description>Britain&#x2019;s Labour Party is seeking once and for all to end a rift over anti-Semitism. But the infighting has exposed damaging divisions.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 04:03:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corbyn, Jeremy (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+    </item>
+    <item>
+      <title>Understanding the times: Satellite Images and Shadow Analysis: How The Times Verifies Eyewitness Videos</title>
+      <link>https://www.nytimes.com/2018/09/04/reader-center/social-media-video-how-to-verify.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/reader-center/social-media-video-how-to-verify.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/reader-center/social-media-video-how-to-verify.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/08/17/reader-center/00whatsapp/00whatsapp-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Using WhatsApp, a Syrian medic was one of six sources who confirmed the location of a tunnel entrance to a hospital near the site of a chemical attack in Syria.</media:description>
+      <media:credit>Malachy Browne</media:credit>
+      <description>Visual investigations based on social media posts require a mix of traditional journalistic diligence and cutting-edge internet skills.</description>
+      <dc:creator>CHRISTOPH KOETTL</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 15:53:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Maps</category>
+    </item>
+    <item>
+      <title>Amazon Hits $1,000,000,000,000 in Value, Following Apple</title>
+      <link>https://www.nytimes.com/2018/09/04/technology/amazon-stock-price-1-trillion-value.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/technology/amazon-stock-price-1-trillion-value.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/technology/amazon-stock-price-1-trillion-value.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/08/29/business/00amazontrillion2/merlin_142977771_f7d7e1fa-9126-4b63-8ec6-624eec509811-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amazon&#x2019;s founder and chief executive, Jeff Bezos, is richer, by far, than anyone in the modern world.</media:description>
+      <media:credit>David Ryder/Getty Images</media:credit>
+      <description>Apple became the first public company to be worth $1 trillion. Amazon hit the same milestone a month later, but the reasons for the e-commerce titan&#x2019;s rise are more complicated.</description>
+      <dc:creator>DAVID STREITFELD</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 22:20:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Books and Readers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Amazon Kindle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Delivery Services</category>
+    </item>
+    <item>
+      <title>Near Everest&#x2019;s Slopes, a Helicopter Rescue Fraud Preys on Trekkers</title>
+      <link>https://www.nytimes.com/2018/09/04/world/asia/nepal-everest-rescue-fraud.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/asia/nepal-everest-rescue-fraud.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/asia/nepal-everest-rescue-fraud.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05nepal-scam1-print/xxnepal-scam1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rescue helicopter landing pads at the airport in Lukla, Nepal, near Mount Everest.</media:description>
+      <media:credit>Lauren DeCicca for The New York Times</media:credit>
+      <description>The Nepali government says that a wave of fraudulent claims and unneeded evacuations has cost insurance companies millions of dollars this year alone.</description>
+      <dc:creator>KAI SCHULTZ</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 19:51:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hospitals</category>
+    </item>
+    <item>
+      <title>A Top Chinese Official (Not Xi Jinping) Will Visit North Korea</title>
+      <link>https://www.nytimes.com/2018/09/04/world/asia/china-north-korea-xi-jinping.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/asia/china-north-korea-xi-jinping.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/asia/china-north-korea-xi-jinping.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/05Nkorea2/merlin_135331194_be1273c5-417a-451d-9b31-d503a6d58240-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Xi Jinping of China, right, with Li Zhanshu in March. Mr. Li, a member of the Politburo Standing Committee, will lead a Chinese delegation to the North Korean capital this week.</media:description>
+      <media:credit>Wang Zhao/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>There had been speculation that China&#x2019;s president would attend national celebrations in Pyongyang this week, but state media said he would send an envoy.</description>
+      <dc:creator>CHOE SANG-HUN and JANE PERLEZ</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 02:43:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Zhanshu (1950- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Arms Control and Limitation and Disarmament</category>
+    </item>
+    <item>
+      <title>Scores of Dead Elephants Found in Botswana &#x2018;Poaching Frenzy&#x2019;</title>
+      <link>https://www.nytimes.com/2018/09/04/world/africa/elephants-botswana-poaching.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/africa/elephants-botswana-poaching.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/africa/elephants-botswana-poaching.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05elephants1-sub/05elephants2-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In Botswana, the tusks of 87 elephants had been chopped off &#x2014; evidence of what conservationists are calling one of the biggest slaughters in recent years.</media:description>
+      <media:credit>Elephants Without Borders</media:credit>
+      <description>At least 87 corpses were counted during aerial surveys over the past few months, all with their tusks hacked off.</description>
+      <dc:creator>KIMON de GREEF</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 21:53:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Botswana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poaching (Wildlife)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elephants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ivory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Animal Abuse, Rights and Welfare</category>
+    </item>
+    <item>
+      <title>Pakistan&#x2019;s Military Has Quietly Reached Out to India for Talks</title>
+      <link>https://www.nytimes.com/2018/09/04/world/asia/pakistan-india-talks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/asia/pakistan-india-talks.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/asia/pakistan-india-talks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05pakistan-india-1/05pakistan-india-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Naval officers at an Independence Day ceremony last month in Karachi, Pakistan.</media:description>
+      <media:credit>Akhtar Soomro/Reuters</media:credit>
+      <description>Officials said India rebuffed Pakistan&#x2019;s outreach, which was driven by anxiety over its isolation and flagging economy.</description>
+      <dc:creator>MARIA ABI-HABIB</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 20:51:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bajwa, Qamar Javed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Japan Copes With Aftermath of Jebi, Strongest Typhoon in 25 Years</title>
+      <link>https://www.nytimes.com/2018/09/04/world/asia/typhoon-jebi-japan-evacuations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/asia/typhoon-jebi-japan-evacuations.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/asia/typhoon-jebi-japan-evacuations.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05japan-1/05japan-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Huge waves caused by Typhoon Jebi hit a fishing port in Aki, in Kochi Prefecture on Japan&#x2019;s western coast, on Tuesday.</media:description>
+      <media:credit>Kyodo, via Reuters</media:credit>
+      <description>Rescuers on Wednesday began evacuating thousands of people who were trapped at a major airport by the storm, which left 11 people dead and hundreds injured.</description>
+      <dc:creator>MOTOKO RICH and MAKIKO INOUE</dc:creator>
+      <pubDate>Wed, 05 Sep 2018 09:02:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Osaka (Japan)</category>
+    </item>
+    <item>
+      <title>Taliban Say Haqqani Founder Is Dead. His Group Is More Vital Than Ever.</title>
+      <link>https://www.nytimes.com/2018/09/04/world/asia/jalaluddin-haqqani-dead-taliban.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/asia/jalaluddin-haqqani-dead-taliban.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/asia/jalaluddin-haqqani-dead-taliban.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05afghan-haqqani-1/05afghan-haqqani-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jalaluddin Haqqani in 1998.</media:description>
+      <media:credit>Mohammed Riaz/Associated Press</media:credit>
+      <description>Jalaluddin Haqqani was a Cold War ally of the C.I.A. Through his son&#x2019;s Taliban leadership, his group has become central to the war against the Americans.</description>
+      <dc:creator>MUJIB MASHAL</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 21:09:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haqqani, Jalaluddin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Haqqani Network</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Inter-Services Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Federally Administered Tribal Areas (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miram Shah (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Waziristan (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haqqani, Sirajuddin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bergdahl, Bowe R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
+    </item>
+    <item>
+      <title>You&#x2019;ve Heard of Outsourced Jobs, but Outsourced Pollution? It&#x2019;s Real, and Tough to Tally Up </title>
+      <link>https://www.nytimes.com/2018/09/04/climate/outsourcing-carbon-emissions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/climate/outsourcing-carbon-emissions.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/climate/outsourcing-carbon-emissions.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/08/31/climate/00CLI-OUTSOURCE/00CLI-OUTSOURCE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A steel factory in Wu&#x2019;an, China. Many countries can report lower carbon emissions because they are increasing imports of materials like steel or cement.</media:description>
+      <media:credit>Thomas Peter/Reuters</media:credit>
+      <description>What Happens When Nations &#x2018;Outsource&#x2019; Their Emissions? Headaches for Measuring Progress.</description>
+      <dc:creator>BRAD PLUMER</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 16:27:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Outsourcing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Global Warming</category>
+    </item>
+    <item>
+      <title>Rome Dispatch: When in Rome, Sea Gulls Do as They Please</title>
+      <link>https://www.nytimes.com/2018/09/04/world/europe/rome-seagulls-italy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/europe/rome-seagulls-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/europe/rome-seagulls-italy.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/26romeseagulls1-print/26romeseagulls1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The sea gull population in Rome has grown in recent years to the tens of thousands, some experts say. And they&#x2019;re big.</media:description>
+      <media:credit>Stephanie Gengotti for The New York Times</media:credit>
+      <description>Thousands of enormous sea gulls have aggressively colonized Rome, acting as if they own the place: invading homes and targeting the Vatican&#x2019;s peace doves. Then, there&#x2019;s the stench.</description>
+      <dc:creator>JASON HOROWITZ</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 10:15:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Seagulls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+    </item>
+    <item>
+      <title>Duterte Orders Arrest of Philippine Senator, One of His Top Critics</title>
+      <link>https://www.nytimes.com/2018/09/04/world/asia/duterte-senator-antonio-trillanes-philippines.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/asia/duterte-senator-antonio-trillanes-philippines.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/04/world/asia/duterte-senator-antonio-trillanes-philippines.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/world/05philippines-1/05philippines-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;If the ordinary folk are being killed, he is now jailing his critics,&#x201D; Senator Antonio Trillanes said Tuesday of President Rodrigo Duterte. Mr. Duterte says a 2010 amnesty granted to the senator over his role in two military rebellions was invalid.</media:description>
+      <media:credit>Mark Cristino/EPA, via Shutterstock</media:credit>
+      <description>The senator, Antonio Trillanes, said that the order was the act of a &#x201C;dictator&#x201D; but that he would not resist arrest. He would be the second presidential critic in the Senate to go to jail.</description>
+      <dc:creator>FELIPE VILLAMOR</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 10:27:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trillanes, Antonio</category>
+    </item>
+    <item>
+      <title>Amazon&#x2019;s Plan to Reach 500 Million Indians: Speak Their Language</title>
+      <link>https://www.nytimes.com/2018/09/04/technology/amazon-hindi-india.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/technology/amazon-hindi-india.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/technology/amazon-hindi-india.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/05/business/05amazonhindi-2/05amazonhindi-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amazon is aiming to break the English-language barrier in India. The e-commerce giant on Tuesday began offering its local website and apps in Hindi, India&#x2019;s most popular language.</media:description>
+      <media:credit>Amazon</media:credit>
+      <description>As the online retailer looked at India, its top new market, it realized it needed to reach beyond the relatively small, urban English-speaking population.</description>
+      <dc:creator>VINDU GOEL</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 18:02:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hindi Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mobile Commerce and Payments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Translation and Interpreters</category>
+    </item>
+    <item>
+      <title>A Facebook War: Libyans Battle on the Streets and on Screens</title>
+      <link>https://www.nytimes.com/2018/09/04/world/middleeast/libya-facebook.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/04/world/middleeast/libya-facebook.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/04/world/middleeast/libya-facebook.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/03/world/03facebook-libya1/03facebook-libya1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A mortar shell landed in this market in Tripoli, Libya, last week. A parallel battle was heating up on Facebook.</media:description>
+      <media:credit>Mahmud Turkia/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A new wave of fighting shook Tripoli this past week. For many combatants Facebook, which has huge influence in Libya, is a key weapon.</description>
+      <dc:creator>DECLAN WALSH and SULIMAN ALI ZWAY</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 07:00:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>An Old Sore for Mexico&#x2019;s Next President: The 43 Missing Students</title>
+      <link>https://www.nytimes.com/2018/09/03/world/americas/mexico-missing-students.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/americas/mexico-missing-students.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/world/americas/mexico-missing-students.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04mexico-print/04mexico1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Family members of the students who disappeared four years ago in Iguala, Guerrero, marching in Mexico City last month.</media:description>
+      <media:credit>Irvin Olivares/Agencia El Universal, via Associated Press</media:credit>
+      <description>Four years after student protesters were pulled off buses, never to be seen again, some hope President-elect Andr&#xE9;s Manuel L&#xF3;pez Obrador can help.</description>
+      <dc:creator>PAULINA VILLEGAS</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 01:15:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iguala (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Escuela Normal Rural Raul Isidro Burgos (Guerrero, Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena Nieto, Enrique</category>
+    </item>
+    <item>
+      <title>Double Blow to Brazil Museum: Neglect, Then Flames</title>
+      <link>https://www.nytimes.com/2018/09/03/world/americas/brazil-museum-fire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/americas/brazil-museum-fire.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/world/americas/brazil-museum-fire.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04brazil-1-print/04brazil1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The National Museum of Brazil in Rio de Janeiro on Monday, a day after it was ravaged by fire.</media:description>
+      <media:credit>Mauro Pimentel/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>When Brazilians look at the shell of their National Museum, some see a symbol of the hollowing out of their country and the near-abandonment of basic services.</description>
+      <dc:creator>MANUELA ANDREONI, ERNESTO LONDO&#xD1;O and LIS MORICONI</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 04:23:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Museum of Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio de Janeiro (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+    </item>
+    <item>
+      <title>News Analysis: Pope Francis Embraces Silence as Calls Grow for Response to Allegations</title>
+      <link>https://www.nytimes.com/2018/09/03/world/europe/pope-francis-mccarrick.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/europe/pope-francis-mccarrick.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/03/world/europe/pope-francis-mccarrick.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04pope1-print/04pope1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pope Francis last week at the Vatican.</media:description>
+      <media:credit>Giulio Origlia/Getty Images</media:credit>
+      <description>Amid rising clamor for the pontiff to address claims he covered up abuse, Francis extolled the virtues of silence: &#x201C;The truth is humble, the truth is silent.&#x201D;</description>
+      <dc:creator>JASON HOROWITZ</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 00:59:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vigano, Carlo Maria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benedict XVI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Paul II</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Religion and Belief</category>
+    </item>
+    <item>
+      <title>Mediterranean Death Rate Is Highest Since 2015 Migration Crisis</title>
+      <link>https://www.nytimes.com/2018/09/03/world/europe/mediterranean-migrants-deaths.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/europe/mediterranean-migrants-deaths.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/world/europe/mediterranean-migrants-deaths.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04migrants-print/04migrants1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A woman&#x2019;s body and a migrant who survived were pulled from the Mediterranean Sea by a Spanish agency about 85 miles off the Libyan coast in July.</media:description>
+      <media:credit>Pau Barrena/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>For every 18 migrants reaching Italy from North Africa, one drowned &#x2014; even as unauthorized migration along the route has fallen to its lowest level since 2015.</description>
+      <dc:creator>PATRICK KINGSLEY</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 12:35:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Doctors Without Borders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations High Commission for Refugees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+    </item>
+    <item>
+      <title>Is There a Spy Camera in That Bathroom? In Seoul, 8,000 Workers Will Check</title>
+      <link>https://www.nytimes.com/2018/09/03/world/asia/korea-toilet-camera.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/asia/korea-toilet-camera.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/world/asia/korea-toilet-camera.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04Korea1-print/04Korea1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A volunteer and a police officer inspecting a women&#x2019;s bathroom in Seoul, South Korea, in 2016. More than 30,000 cases of surreptitious filming have been reported nationally since 2013.</media:description>
+      <media:credit>Jung Yeon-Je/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The South Korean capital is promising a large-scale campaign to combat cameras hidden in public toilets. The recordings often end up on pornographic websites.</description>
+      <dc:creator>TIFFANY MAY and SU-HYUN LEE</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 04:42:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voyeurism (Criminal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bathrooms and Toilets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+    </item>
+    <item>
+      <title>She Thought Pole Dancing at Kindergarten Was a Great Idea. Others Disagreed.</title>
+      <link>https://www.nytimes.com/2018/09/03/world/asia/china-pole-dancing-kindergarten.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/asia/china-pole-dancing-kindergarten.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/03/world/asia/china-pole-dancing-kindergarten.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>The principal of a Chinese kindergarten said she wanted to show children different kinds of dance. Parents and Chinese internet users were astonished.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Mon, 03 Sep 2018 22:26:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
+    </item>
+    <item>
+      <title>WPP Advertising Agency Names Mark Read as Chief Executive</title>
+      <link>https://www.nytimes.com/2018/09/03/business/media/wpp-new-ceo-mark-read.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/business/media/wpp-new-ceo-mark-read.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/business/media/wpp-new-ceo-mark-read.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/03/business/04xp-WPP/04xp-WPP-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mark Read was named as the new chief executive of WPP on Monday.</media:description>
+      <media:credit>Toby Melville/Reuters</media:credit>
+      <description>Mr. Read, 51, is a longtime executive at the global marketing giant. He fills the position previously held by Martin Sorrell, who recently quit amid a personal misconduct investigation.</description>
+      <dc:creator>MATTHEW HAAG</dc:creator>
+      <pubDate>Mon, 03 Sep 2018 15:46:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Read, Mark (Marketing Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WPP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sorrell, Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+    </item>
+    <item>
+      <title>The New New World: China&#x2019;s Internet Obsesses Over Arrest of JD.com Founder Richard Liu</title>
+      <link>https://www.nytimes.com/2018/09/03/technology/jd-com-richard-liu-qiangdong.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/technology/jd-com-richard-liu-qiangdong.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/technology/jd-com-richard-liu-qiangdong.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/business/04newworld/04newworld-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Richard Liu, the founder JD.com, has long been the subject of significant media attention in China. His recent arrest in Minnesota has only intensified that.</media:description>
+      <media:credit>Sim Chi Yin for The New York Times</media:credit>
+      <description>The furor over Mr. Liu&#x2019;s legal troubles reflects China&#x2019;s fascination with self-made tech tycoons, who have become symbols of the country&#x2019;s rise as a global power.</description>
+      <dc:creator>LI YUAN</dc:creator>
+      <pubDate>Mon, 03 Sep 2018 18:45:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JD.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Sweden Was Long Seen as a &#x2018;Moral Superpower.&#x2019; That May Be Changing.</title>
+      <link>https://www.nytimes.com/2018/09/03/world/europe/sweden-election-populism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/europe/sweden-election-populism.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/world/europe/sweden-election-populism.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04sweden-3-print/xxsweden1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A member of the Sweden Democrats, a far-right party, speaking to voters at a gathering in Stockholm for representatives of all the political parties.</media:description>
+      <media:credit>Loulou d'Aki for The New York Times</media:credit>
+      <description>In coming national elections, the anti-immigrant Sweden Democrats are forecast to get 20 percent, throwing the country&#x2019;s image as a &#x201C;moral superpower&#x201D; into question.</description>
+      <dc:creator>STEVEN ERLANGER</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 00:03:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sweden Democrats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Swedish Social Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gangs</category>
+    </item>
+    <item>
+      <title>Muslim Court Canes Malaysian Women for Same-Sex Relationship</title>
+      <link>https://www.nytimes.com/2018/09/03/world/asia/malaysia-caning-women-shariah.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/asia/malaysia-caning-women-shariah.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/world/asia/malaysia-caning-women-shariah.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04malaysia-1/04malaysia-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The two women, each of whom was caned six times, after pleading guilty to homosexual activity at the Shariah High Court in the state of Terengganu, Malaysia, on Monday.</media:description>
+      <media:credit>EPA, via Shutterstock</media:credit>
+      <description>The women were each struck six times in a Shariah court. Human rights and legal groups called the punishment a form of torture that should be banned.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 04:53:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporal Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shariah (Islamic Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+    </item>
+    <item>
+      <title>What Artifacts Were in the National Museum of Brazil?</title>
+      <link>https://www.nytimes.com/2018/09/03/world/americas/artifacts-national-museum-brazil-fire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/americas/artifacts-national-museum-brazil-fire.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/09/03/world/americas/artifacts-national-museum-brazil-fire.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04xp-artifacts-span/04xp-artifacts-span-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A firefighter removing items during Sunday&#x2019;s fire at the National Museum of Brazil in Rio de Janeiro.</media:description>
+      <media:credit>Ricardo Moraes/Reuters</media:credit>
+      <description>The items feared lost to a fire on Sunday include one of the world&#x2019;s largest meteorites and the oldest human fossil from the region.</description>
+      <dc:creator>DANIEL VICTOR</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 02:07:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mummies and Mummification</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Paleontology</category>
+    </item>
+    <item>
+      <title>German Politicians Call for Surveillance of Anti-Immigrant Party</title>
+      <link>https://www.nytimes.com/2018/09/03/world/europe/germany-migrant-murder.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/europe/germany-migrant-murder.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/03/world/europe/germany-migrant-murder.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04Germany/04Germany-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Journalists outside the district court in Landau, Germany, on Monday, where Abdul D. was tried. The hearing was private, because the case was handled as a juvenile offense.</media:description>
+      <media:credit>Ronald Wittek/EPA, via Shutterstock</media:credit>
+      <description>After violent clashes in the city of Chemnitz, opponents accused the nationalist Alternative for Germany of undermining the country&#x2019;s Constitution.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Tue, 04 Sep 2018 14:33:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>Myanmar Sentences Reuters Journalists to 7 Years in Prison</title>
+      <link>https://www.nytimes.com/2018/09/03/world/asia/myanmar-reuters-journalists-sentenced-trial.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/09/03/world/asia/myanmar-reuters-journalists-sentenced-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/09/03/world/asia/myanmar-reuters-journalists-sentenced-trial.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/04/world/04myanmar-2-print/04myanmar-1sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Reuters journalist U Wa Lone after his sentencing in Yangon, Myanmar, on Monday.</media:description>
+      <media:credit>Lynn Bo Bo/EPA, via Shutterstock</media:credit>
+      <description>The case has been the most visible instance of a wider crackdown on the press in Myanmar, which continues to deny atrocities against Rohingya Muslims.</description>
+      <dc:creator>RICHARD C. PADDOCK</dc:creator>
+      <pubDate>Mon, 03 Sep 2018 22:26:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Reuters Group PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kyaw Soe Oo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wa Lone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rakhine State (Myanmar)</category>
+    </item>
+  </channel>
+</rss>
